@@ -1,0 +1,28 @@
+body{
+  background-color: #48a048;
+  font-family: sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+h1, h2{
+  color: #ffa596;
+  font-weight: bold;
+}
+
+a{
+  color: #whitesmoke;
+  text-decoration: none;
+}
+
+p{
+  color: white;
+}
+
+.salmon {
+  color: #ffa596;
+}
+
+.green {
+  color: #48a048;
+}
